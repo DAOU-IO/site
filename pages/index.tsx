@@ -1,11 +1,8 @@
 import type { NextPage } from 'next';
-import WalletButton from '../components/WalletButton';
 import GotoButton from '../components/GotoButton';
 
 import { 
       Box, 
-      Button, 
-      ButtonGroup, 
       Text, 
       Flex,
       Image,
@@ -26,7 +23,6 @@ const Home: NextPage = () => {
               alt='DAOU logo'
             />
             <Spacer />
-            <WalletButton />
         </Flex>
         <Box pl="5vh" pt="5vh" my="20px" borderTop="1px" borderBottom="1px" borderColor='whiteAlpha.900' h='38vh' >
           <Box>
