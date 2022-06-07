@@ -266,8 +266,6 @@
     "@chakra-ui/theme-tools" "^2.0.0-next.2"
 
 "@chakra-ui/avatar@2.0.0-next.3":
-  "integrity" "sha512-WtNb3abBo7xIJ4KZD+nWCdSa5L2qiO4qqKTbs6cC8odBSoDCSK41t2I4UucGVQr4McQ5LDWg4y2+o7d9ZRIcFw=="
-  "resolved" "https://registry.npmmirror.com/@chakra-ui/avatar/-/avatar-2.0.0-next.2.tgz"
   "version" "2.0.0-next.2"
   dependencies:
     "@chakra-ui/image" "2.0.0-next.2"
@@ -3031,7 +3029,6 @@
     "setimmediate" "^1.0.5"
 
 "ethereumjs-abi@git+https://github.com/ethereumjs/ethereumjs-abi.git":
-  "resolved" "git+ssh://git@github.com/ethereumjs/ethereumjs-abi.git#ee3994657fa7a427238e6ba92a84d0b529bbcde0"
   "version" "0.6.8"
   dependencies:
     "bn.js" "^4.11.8"
@@ -3063,7 +3060,7 @@
     "ethjs-util" "0.1.6"
     "rlp" "^2.2.3"
 
-"ethers@^5.6.8", "ethers@>=5.5.1":
+"ethers@>=5.5.1":
   "integrity" "sha512-YxIGaltAOdvBFPZwIkyHnXbW40f1r8mHUgapW6dxkO+6t7H6wY8POUn0Kbxrd/N7I4hHxyi7YCddMAH/wmho2w=="
   "resolved" "https://registry.npmmirror.com/ethers/-/ethers-5.6.8.tgz"
   "version" "5.6.8"
