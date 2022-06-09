@@ -37,7 +37,7 @@ const Home: NextPage = () => {
         </Box>
         <Flex mt='20vh'>
           <Text fontSize='1xl' color="whiteAlpha.900" mr="2vh" >
-            Made With ❤️ By <Link href='https://twitter.com/fifteen42_' >Tingfei.</Link>
+            Made With  ❤️  By <Link href='https://twitter.com/fifteen42_' >Tingfei.</Link>
           </Text>
           <Flex>
             <Text fontSize='1xl' color="whiteAlpha.900" mr="1vh" >
